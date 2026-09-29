@@ -15,3 +15,5 @@ The generated file will be:
 ```text
 driver_feedback_qr_matcha.png
 ```
+## Author
+Made by Nghia
